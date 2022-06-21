@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-29T12:24:33 IST" name="Suite" finished-at="2022-01-29T12:25:25 IST" duration-ms="52475">
+    <groups>
+    </groups>
+    <test started-at="2022-01-29T12:24:33 IST" name="Test" finished-at="2022-01-29T12:25:25 IST" duration-ms="52475">
+      <class name="com.cognizant.savaari.TestNG_Trigger">
+        <test-method is-config="true" signature="f1()[pri:0, instance:com.cognizant.savaari.TestNG_Trigger@51dcb805]" started-at="2022-01-29T12:24:33 IST" name="f1" finished-at="2022-01-29T12:25:03 IST" duration-ms="29889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method signature="q1()[pri:0, instance:com.cognizant.savaari.TestNG_Trigger@51dcb805]" started-at="2022-01-29T12:25:03 IST" name="q1" finished-at="2022-01-29T12:25:07 IST" duration-ms="4238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- q1 -->
+        <test-method signature="q2()[pri:0, instance:com.cognizant.savaari.TestNG_Trigger@51dcb805]" started-at="2022-01-29T12:25:07 IST" name="q2" finished-at="2022-01-29T12:25:11 IST" duration-ms="3890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- q2 -->
+        <test-method signature="q3()[pri:0, instance:com.cognizant.savaari.TestNG_Trigger@51dcb805]" started-at="2022-01-29T12:25:11 IST" name="q3" finished-at="2022-01-29T12:25:12 IST" duration-ms="672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- q3 -->
+        <test-method signature="q4()[pri:0, instance:com.cognizant.savaari.TestNG_Trigger@51dcb805]" started-at="2022-01-29T12:25:12 IST" name="q4" finished-at="2022-01-29T12:25:15 IST" duration-ms="3591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- q4 -->
+        <test-method is-config="true" signature="q5()[pri:0, instance:com.cognizant.savaari.TestNG_Trigger@51dcb805]" started-at="2022-01-29T12:25:15 IST" name="q5" finished-at="2022-01-29T12:25:25 IST" duration-ms="10119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- q5 -->
+      </class> <!-- com.cognizant.savaari.TestNG_Trigger -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
